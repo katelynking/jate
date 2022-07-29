@@ -28,7 +28,7 @@ The following code will be necessary to utilize this project:
 
 <a name="usage"></a>
 ## Usage 
-Link to deployed application: [Just Another Text Editor](link)
+Link to deployed application: [Just Another Text Editor](https://jate-kark.herokuapp.com/)
 
 Go to link to deploy application. Click the Install button for offline use. 
 
